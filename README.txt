@@ -1,7 +1,5 @@
-I have updated README.txt file.
-<<<<<<< HEAD
+I have updated javascript file.
 Hi everyone.
-Hello...
-=======
-Added style.css file. 
->>>>>>> css-assignments
+Hello.
+Added js file. 
+
